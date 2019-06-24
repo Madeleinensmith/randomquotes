@@ -1,0 +1,28 @@
+body{
+  background-image: linear-gradient(to right, #897CEA , #D8AFED);
+  color: black;
+  font-family: 'Fruktur', cursive;
+  border: 5px solid white;
+}
+h1{
+    font-size:65px;
+    text-shadow: 2px 2px #2B17B4;
+}
+h3{
+  font-size: 40px;
+  text-shadow: 2px 2px #ffffff;
+}
+.button {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Fruktur', cursive;
+  font-size: 30px;
+  text-shadow: 2px 2px #2B17B4;
+}
+p{
+  font-size: 20px;
+}
